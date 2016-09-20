@@ -1,0 +1,28 @@
+# configuration
+# fill in the course details
+ 
+courseName: Course name
+
+# small title that is at the top of every page
+subtitle: GHS101 course syllabus — spring semester 2022
+
+# baseurl is the same as the name of the repository
+baseurl: /gh-syllabus
+
+# url where the required reading is available to download
+docsUrl: "" 
+
+# url where the student's grading info is kept
+gradingUrl: "" 
+
+
+# change only if you know what you are doing
+collections:
+  syllabus:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: syllabus
+    values:
+      layout: unit

@@ -1,0 +1,13 @@
+<p class="subtitle">{{ site.subtitle }}</p>
+<nav>
+	<ul>
+		{% assign pages = (site.pages | sort: "menuPosition") %}
+		{% for node in pages %}
+		{% if page.url == node.url %}
+		<li class="active"><a href="{{ site.baseurl }}{{node.url}}" class="active">{{node.menuItem}}</a></li>
+		{% else %}
+		<li><a href="{{ site.baseurl }}{{node.url}}">{{node.menuItem}}</a></li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+</nav>
