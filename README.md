@@ -6,6 +6,11 @@ A template for a [Github Pages](https://pages.github.com) hosted syllabus.
 - See the code in the [`master` branch](https://github.com/jan-martinek/gh-syllabus/tree/gh-pages).
 - Fork/clone this repository and make your own course syllabus on Github Pages.
 
+## Syllabi based on this template
+
+- [Kritická teorie a inovace: kde jsme a co s tím?](https://jan-martinek.github.io/ktai2017/) ([repo](https://github.com/jan-martinek/ktai2017))
+- [Introduction To Digital Humanities For The Ancient World](https://isaw-ga-3024.github.io/isaw-dh-syllabus/) ([repo](https://github.com/isaw-ga-3024/isaw-dh-syllabus))
+
 ## Five step setup
 
 1. [Fork](https://guides.github.com/activities/forking/) this repository.
@@ -21,9 +26,6 @@ A template for a [Github Pages](https://pages.github.com) hosted syllabus.
 - You may use [Github's own editor](https://help.github.com/articles/editing-files-in-your-repository/) to edit or add any of the files in repository.
 - Template is based on [Jekyll](https://jekyllrb.com) static site generator (that is used by Github Pages). So if you want to dig deeper, you can change almost anything (visuals, content structure, etc.).
 
-## Existing live examples
 
-- [Kritická teorie a inovace: kde jsme a co s tím?](https://jan-martinek.github.io/ktai2017/) ([repo](https://github.com/jan-martinek/ktai2017))
-- [Introduction To Digital Humanities For The Ancient World](https://isaw-ga-3024.github.io/isaw-dh-syllabus/) ([repo](https://github.com/isaw-ga-3024/isaw-dh-syllabus))
 
 Licensed under MIT License.
