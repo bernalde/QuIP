@@ -26,6 +26,4 @@ A template for a [Github Pages](https://pages.github.com) hosted syllabus.
 - [Kritická teorie a inovace: kde jsme a co s tím?](https://jan-martinek.github.io/ktai2017/) ([repo](https://github.com/jan-martinek/ktai2017))
 - [Introduction To Digital Humanities For The Ancient World](https://isaw-ga-3024.github.io/isaw-dh-syllabus/) ([repo](https://github.com/isaw-ga-3024/isaw-dh-syllabus))
 
-https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/
-
 Licensed under MIT License.
