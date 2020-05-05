@@ -4,10 +4,10 @@
 courseName: Course name
 
 # small title that is at the top of every page
-subtitle: GHS101 course syllabus — spring semester 2022
+subtitle: 47-XXX course syllabus - Fall 2020
 
 # baseurl is the same as the name of the repository
-baseurl: /gh-syllabus
+baseurl: /QuIP
 
 # url where the required reading is available to download
 docsUrl: "" 
