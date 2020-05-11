@@ -12,3 +12,5 @@ This course is not going to focus on the following topics:
 - Computational complexity theory
 - Quantum Information Theory
 - Analysis of speedup using differential geometry, algebraic topology, etc.
+
+Based on gh-syllabus, a template for a gh-pages hosted syllabus https://github.com/jan-martinek/gh-syllabus
