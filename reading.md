@@ -5,7 +5,7 @@ menuItem: Reading
 menuPosition: 2
 ---
 {% if site.docsUrl != "" %}
-You can download all required reading in the [Study materials]({{ site.docsUrl }}) at the faculty website.
+You can access all the required reading material via the links provided.
 {% endif %}
 
 There's something that needs to be told. Maybe.
@@ -21,3 +21,8 @@ There's something that needs to be told. Maybe.
   	({{ week.day }})</li>
 {% endfor %}
 </ol>
+
+Besides each week's papers there are some casual references we will visit. There is no single text book for the course. This is a  restricted list of various interesting and useful books that will be touched during the course. You may need to consult them occasionally.
+- Georges Irfah, The Universal History of Computing, John Wiley & Sons, 2001.
+- Eleanor G. Rieffel and Wolfgang H. Polak, Quantum Computing: A Gentle Introduction, MIT Press, 2011. [PDF](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)
+- Richard J. Lipton and Kenneth W. Regan, Quantum Algorithms via Linear Algebra. A Primer, MIT Press, 2014.
