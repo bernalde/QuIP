@@ -9,6 +9,7 @@ menuPosition: 1
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
 Thursdays 3:30p.m. - 5:20p.m. Room: TBD
+
 Prof. Sridhar Tayur (4216 Tepper Quad), Dr. Davide Venturelli (online), David Bernal (DH3116).
 
 ## Objectives
