@@ -1,21 +1,17 @@
 ---
 week: 2
-day: September 8
-title: Hands On
-tags: [hints, letsDoIt]
+day: TBD
+title: Ising, Quadratic Unconstrained Binary Optimization
+tags: [ising,qubo]
 ---
-### Surname, Name: _Book title_
+### Ising model basics
 
-City: Publisher, 2017\. ISBN 123-45-678-9012-3.  
-**Required excerpt: p. 55–90 (35 pages). [PDF]({{ site.docsUrl }}article.pdf)**
+### Simulated Annealing 
 
-### Surname, Name: _Article title_  
+### Markov-chain Monte Carlo methods
 
-In: Publication, Date. [Available online.](http://publication.com/article_url)  
-**Entire article required (~5 pages). [PDF]({{ site.docsUrl }}cached-to-be-sure.pdf)**
+### Markov-chain Monte Carlo methods
 
-## Recommended reading
+### Benchmarking classical methods  
 
-### Surname, Name: _Article title_  
-
-In: Publication, Date. [Available online.](http://publication.com/article_url)  
+### Formulating combinatorial problems as QUBOs
