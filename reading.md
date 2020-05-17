@@ -8,7 +8,9 @@ menuPosition: 2
 You can access all the required reading material via the links provided.
 {% endif %}
 
-There's something that needs to be told. Maybe.
+From among many References, we will discuss in detail one or two papers (or book chapters) per class, depending on the topic. 
+Students should read them in advance so that class discussions can be more productive.  
+
 
 <ol>
 {% assign syllabus = (site.syllabus | sort: "week") %}
