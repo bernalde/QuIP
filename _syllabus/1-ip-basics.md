@@ -11,7 +11,7 @@ City: Publisher, 2017\. ISBN 123-45-678-9012-3.
 
 ### Cutting plane theory and relaxations  
 
-### Introduction to test sets 
+### Introduction to Test Sets 
 
 #### Groebner basis
 
