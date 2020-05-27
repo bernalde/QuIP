@@ -59,3 +59,6 @@ No particular knowledge in quantum mechanics or algebraic geometry is required.
 Weekly homework and quizzes (50%), Final Project (50%).
 - Each lecture will have a short quiz to evaluate the concepts covered in class. The  two worst quizzes won't be counted towards the final grade.
 - The final project will be submitted in groups and it will require the implementation and solution of an integer programming instance using quantum computing resources. This final project deliverable will be a report and a presentation.
+
+# Full Syllabus
+The complete syllabus can be downloaded <a href="QuIP_Syllabus.pdf" download>here</a>
