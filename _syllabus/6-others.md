@@ -18,8 +18,8 @@ tags:
 ### Adiabatic Quantum Computing and Algebraic Geometry
 
 #### Minimizing Polynomial Functions
-Raouf Dridi, Hedayat Alghassi, and Sridhar Tayur. Minimizing polynomial functions on quantum computers. arXiv preprint arXiv:1903.08270, 2019.
+- Raouf Dridi, Hedayat Alghassi, and Sridhar Tayur. Minimizing polynomial functions on quantum computers. arXiv preprint arXiv:1903.08270, 2019.
 
 #### Prime factorization
-Raouf Dridi and Hedayat Alghassi. Prime factorization using quantum annealing and computational
+- Raouf Dridi and Hedayat Alghassi. Prime factorization using quantum annealing and computational
 algebraic geometry. Scientific reports, 7:43048, 2017.
