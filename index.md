@@ -8,7 +8,7 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
-Tuesdays and Thursdays 3:30p.m. - 5:20p.m. Room: 5219 Tepper Quad
+Tuesdays and Thursdays 5:20p.m. - 7:10p.m. EST. Lectures on Zoom.
 
 Prof. Sridhar Tayur (4216 Tepper Quad), Dr. Davide Venturelli (online), David Bernal (DH3116).
 
