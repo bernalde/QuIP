@@ -1,6 +1,6 @@
 ---
 week: 1
-day: TBD
+day: Week of August 31st
 title: Integer programming classical methods
 ---
 ### Integer Programming basics
