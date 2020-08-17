@@ -46,11 +46,11 @@ No particular knowledge in quantum mechanics or algebraic geometry is required.
 
 **Week 2:** Ising model, Quadratic Unconstrained Binary Optimization.
 
-**Week 3:** Specialized hardware methods for solving Ising/QUBO.
+**Week 3:** Graver Augmented Multiseed algorithm (GAMA).
 
-**Week 4:** Quantum methods for solving Ising/QUBO.
+**Week 4:** Specialized hardware methods for solving Ising/QUBO.
 
-**Week 5:** Graver Augmented Multiseed algorithm (GAMA).
+**Week 5:** Quantum methods for solving Ising/QUBO.
 
 **Week 6:** Applications and final project presentations.
 
