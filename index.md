@@ -60,5 +60,11 @@ Weekly homework and quizzes (50%), Final Project (50%).
 - Each lecture will have a short quiz to evaluate the concepts covered in class. The  two worst quizzes won't be counted towards the final grade.
 - The final project will be submitted in groups and it will require the implementation and solution of an integer programming instance using quantum computing resources. This final project deliverable will be a report and a presentation.
 
+## Highlights
+- Development of this course was supported by the Air Force Research Lab NYSTEC-USRA Contract (FA8750-19-3-6101)
+- Access to D-Wave systems might be available via written proposals to the University Space Research Association (USRA). See https://riacs.usra.edu/quantum/rfp for terms and conditions. The course will discuss proposal preparation.
+- Students of this course are encouraged to apply to the Feynman Academy Internship program https://riacs.usra.edu/quantum/qacademy that sponsors research projects at NASA Ames Research Center.
+
+
 # Full Syllabus
 The complete syllabus can be downloaded <a href="QuIP_Syllabus.pdf" download>here</a>
