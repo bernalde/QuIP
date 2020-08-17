@@ -1,6 +1,6 @@
 ---
-week: 4
-day: Week of September 21st
+week: 5
+day: Week of September 28st
 title: Specialized hardware methods for solving Ising/QUBO
 ---
 ### Graphical Processing Units

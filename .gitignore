@@ -1,1 +1,10 @@
 _site/*
+syllabus_tex/*.aux
+syllabus_tex/*.bbl
+syllabus_tex/*.blg
+syllabus_tex/*.brf
+syllabus_tex/*.fdb_latexmk
+syllabus_tex/*.fls
+syllabus_tex/*.log
+syllabus_tex/*.out
+syllabus_tex/*.gz

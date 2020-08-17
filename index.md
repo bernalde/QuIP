@@ -48,9 +48,9 @@ No particular knowledge in quantum mechanics or algebraic geometry is required.
 
 **Week 3:** Graver Augmented Multiseed algorithm (GAMA).
 
-**Week 4:** Specialized hardware methods for solving Ising/QUBO.
+**Week 4:** Quantum methods for solving Ising/QUBO.
 
-**Week 5:** Quantum methods for solving Ising/QUBO.
+**Week 5:** Specialized hardware methods for solving Ising/QUBO.
 
 **Week 6:** Applications and final project presentations.
 
@@ -67,4 +67,4 @@ Weekly homework and quizzes (50%), Final Project (50%).
 
 
 # Full Syllabus
-The complete syllabus can be downloaded <a href="QuIP_Syllabus.pdf" download>here</a>
+The complete syllabus can be downloaded <a href="syllabus_tex/QuIP_Syllabus.pdf" download>here</a>
