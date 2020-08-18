@@ -61,6 +61,19 @@ Weekly homework and quizzes (50%), Final Project (50%).
 - The final project will be submitted in groups and it will require the implementation and solution of an integer programming instance using quantum computing resources. This final project deliverable will be a report and a presentation.
 
 ## Highlights
+The specific skills that students will gain that will make them "quantum ready" for industry or further academic research in this course are:
+
+A. Classical
+1. Given a practical problem (from supply chain or physics or anything else), formulate it as a non-linear integer program. We will provide a few practical problems, but we encourage you to suggest one that you are already working on or are interested in.
+2. Solve such formulations via classical solvers.
+B. Quantum
+3. Reformulate the problem to be “quantum ready” by making it in the form of a QUBO. 
+4. Solve the QUBO “brute force” through D-Wave or IBM (via QAOA).
+C. Hybrid Quantum-Classical
+5. Reformulate the problem again in the form suitable for GAMA.
+6. Solve GAMA compatible formulation via D-Wave and/or via QAOA.
+
+Regarding USRA
 - Access to D-Wave systems might be available via written proposals to the University Space Research Association (USRA). See [RIACS website](https://riacs.usra.edu/quantum/rfp) for terms and conditions. The course will discuss proposal preparation.
 - Students of this course are encouraged to apply to the [Feynman Academy Internship program](https://riacs.usra.edu/quantum/qacademy) that sponsors research projects at NASA Ames Research Center.
 
