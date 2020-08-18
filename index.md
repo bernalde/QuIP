@@ -62,8 +62,8 @@ Weekly homework and quizzes (50%), Final Project (50%).
 
 ## Highlights
 - Development of this course was supported by the Air Force Research Lab NYSTEC-USRA Contract (FA8750-19-3-6101)
-- Access to D-Wave systems might be available via written proposals to the University Space Research Association (USRA). See https://riacs.usra.edu/quantum/rfp for terms and conditions. The course will discuss proposal preparation.
-- Students of this course are encouraged to apply to the Feynman Academy Internship program https://riacs.usra.edu/quantum/qacademy that sponsors research projects at NASA Ames Research Center.
+- Access to D-Wave systems might be available via written proposals to the University Space Research Association (USRA). See [RIACS website](https://riacs.usra.edu/quantum/rfp) for terms and conditions. The course will discuss proposal preparation.
+- Students of this course are encouraged to apply to the [Feynman Academy Internship program](https://riacs.usra.edu/quantum/qacademy) that sponsors research projects at NASA Ames Research Center.
 
 
 # Full Syllabus
