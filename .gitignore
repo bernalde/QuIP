@@ -1,3 +1,4 @@
+.vscode/*
 _site/*
 syllabus_tex/*.aux
 syllabus_tex/*.bbl
