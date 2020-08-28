@@ -9,3 +9,6 @@ syllabus_tex/*.fls
 syllabus_tex/*.log
 syllabus_tex/*.out
 syllabus_tex/*.gz
+syllabus_tex/*.tex
+syllabus_tex/*.bib
+
