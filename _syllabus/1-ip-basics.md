@@ -11,6 +11,10 @@ Michele  Conforti,  Gérard  Cornuéjols,  Giacomo  Zambelli,  et  al. Integer  
 
 Michele  Conforti,  Gérard  Cornuéjols,  Giacomo  Zambelli,  et  al. Integer  programming,  volume  271. Springer, 2014. 
 
+Slides available <a href="slides/47-779 Lecture 1 - Integer Programming.pdf" download>here</a>.
+
+[Zoom recording link](https://cmu.zoom.us/rec/share/HNSwEyCGDZ3kU51qO1xpPMdyy5wsoFi_vw8Vjhak-Ek2n1ZypFOC2tGRC-kuYQTL.vM2hxXAHqz4YEzrj) Passcode: P^2GSWny
+
 ### Introduction to Test Sets 
  
 - Bernd Sturmfels.Grobner bases and convex polytopes, volume 8. American Mathematical Soc., 1996.
@@ -18,7 +22,7 @@ Michele  Conforti,  Gérard  Cornuéjols,  Giacomo  Zambelli,  et  al. Integer  
 
 #### Groebner basis
 - Dimitris  Bertsimas,  Georgia  Perakis,  and  Sridhar  Tayur.   A  new  algebraic  geometry  algorithm  forinteger programming.Management Science, 46(7):999–1008, 2000. 
--  Serkan Ho ̧sten and Bernd Sturmfels.  Grin:  An implementation of gr ̈obner bases for integer program-ming.   InInternational  Conference  on  Integer  Programming  and  Combinatorial  Optimization,  pages267–276. Springer, 1995. 
+-  Serkan Ho ̧sten and Bernd Sturmfels.  Grin:  An implementation of gr ̈obner bases for integer program-ming.   InInternational  Conference  on  Integer  Programming  and  Combinatorial  Optimization,  pages 267–276. Springer, 1995. 
 
 #### Graver Basis
 - Raymond Hemmecke, Shmuel Onn, and Robert Weismantel.  A polynomial oracle-time algorithm forconvex integer minimization.Mathematical Programming, 126(1):97–117, 2011. 

@@ -12,6 +12,9 @@ Tuesdays and Thursdays 5:20p.m. - 7:10p.m. EST. Lectures on Zoom.
 
 Prof. Sridhar Tayur (4216 Tepper Quad), Dr. Davide Venturelli (online), David Bernal (DH3116).
 
+Slides of the first introductory lecture available 
+Slides available <a href="slides/47-779 Lecture 0 - Course Overview.pdf" download>here</a> and available in the following [Zoom recording link](https://cmu.zoom.us/rec/share/vuFWEOr26kVJQpHh7X3UY7YmRK7Peaa8gyca_foLmEkO0WjDDr9PBN1f2apSSQ6S) Passcode: =Ev^mH4w
+
 ## Objectives
 
 This course is primarily designed for graduate students (and advanced undergraduates) across CMU campuses interested in integer programming (with non-linear objective functions) and the potential of near-term quantum computing for solving combinatorial optimization problems.
