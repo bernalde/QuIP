@@ -11,7 +11,7 @@ Michele  Conforti,  Gérard  Cornuéjols,  Giacomo  Zambelli,  et  al. Integer  
 
 Michele  Conforti,  Gérard  Cornuéjols,  Giacomo  Zambelli,  et  al. Integer  programming,  volume  271. Springer, 2014. 
 
-Slides available <a href="slides/47-779 Lecture 1 - Integer Programming.pdf" download>here</a>.
+Slides available <a href="../slides/47-779 Lecture 1 - Integer Programming.pdf" download>here</a>.
 
 [Zoom recording link](https://cmu.zoom.us/rec/share/HNSwEyCGDZ3kU51qO1xpPMdyy5wsoFi_vw8Vjhak-Ek2n1ZypFOC2tGRC-kuYQTL.vM2hxXAHqz4YEzrj) Passcode: P^2GSWny
 
