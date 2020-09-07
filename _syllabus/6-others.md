@@ -1,6 +1,6 @@
 ---
 week: 6
-day: Week of October 5th
+day: Week of October 12th
 title: Other topics and project presentations
 tags: 
 ---
