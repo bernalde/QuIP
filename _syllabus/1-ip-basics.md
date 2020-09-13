@@ -30,5 +30,7 @@ Slides available <a href="../slides/47-779 Lecture 2 - Groebner basis.pdf" downl
 - Dimitris  Bertsimas,  Georgia  Perakis,  and  Sridhar  Tayur.   A  new  algebraic  geometry  algorithm  for integer programming. Management Science, 46(7):999–1008, 2000. 
 -  Serkan Ho sten and Bernd Sturmfels. Grin:  An implementation of Grobner bases for integer programming. In International  Conference  on  Integer  Programming  and  Combinatorial  Optimization,  pages 267–276. Springer, 1995. 
 
+[Zoom recording link](https://cmu.zoom.us/rec/share/-3SyR3Ld4eek6hMPGQ8e3IPppUycgGwZxpyL3EaRvCAsmZH8XgPAhlNAq3jAG_W5.zJZvD_UGvtjGiNdm) Passcode: RV=9U^s3
+
 #### Graver Basis
 - Raymond Hemmecke, Shmuel Onn, and Robert Weismantel.  A polynomial oracle-time algorithm for convex integer minimization. Mathematical Programming, 126(1):97–117, 2011. 

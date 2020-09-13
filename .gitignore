@@ -11,4 +11,4 @@ syllabus_tex/*.out
 syllabus_tex/*.gz
 syllabus_tex/*.tex
 syllabus_tex/*.bib
-
+*code-workspace
