@@ -5,7 +5,7 @@ menuItem: Project
 menuPosition: 4
 ---
 {% if site.docsUrl != "" %}
-Here you can access all the requirements for the final project
+Here you can access all the requirements for the final project.
 {% endif %}
 
 The final project accounts for 50% of the total grade.
