@@ -21,7 +21,7 @@ Slides available <a href="../slides/47-779 Lecture 1 - Integer Programming.pdf" 
 - Sridhar R Tayur, Rekha R Thomas, and NR Natraj.  An algebraic geometry algorithm for scheduling in presence of setups and correlated demands. Mathematical Programming, 69(1-3):369–401, 1995.
 
 
-Slides available <a href="../slides/47-779 Lecture 2 - Groebner basis.pdf" download>here</a>.
+Slides of Lecture 2 available <a href="../slides/47-779 Lecture 2 - Groebner basis.pdf" download>here</a>.
 
 
 [Zoom recording link](https://cmu.zoom.us/rec/share/W0kL_EynvC2DKVMQvqqWzM-JBhRg1Aj2nirAgb9LANQksbEd5EsK6E28Z-u9X9s2.4OvPySuCZ1D6FwVW) Passcode: 6.gKTx4+
