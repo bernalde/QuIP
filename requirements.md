@@ -2,7 +2,7 @@
 title: Course requirements and grading
 layout: page
 menuItem: Course requirements
-menuPosition: 3
+menuPosition: 4
 ---
 Everything a student needs to know to not to fail. *Too too.*
 
