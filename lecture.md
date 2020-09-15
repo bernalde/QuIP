@@ -1,7 +1,7 @@
 ---
-title: Lectures: Slides and Video
+title: "Lectures: Slides and Video"
 layout: page
-menuItem: Lectures: Slides and Video 
+menuItem: "Lectures: Slides and Video "
 menuPosition: 2
 ---
 {% if site.docsUrl != "" %}
