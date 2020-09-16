@@ -2,7 +2,7 @@
 title: Reading
 layout: page
 menuItem: Reading
-menuPosition: 3
+menuPosition: 5
 ---
 {% if site.docsUrl != "" %}
 You can access all the required reading material via the links provided.

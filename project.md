@@ -2,7 +2,7 @@
 title: Project
 layout: page
 menuItem: Project
-menuPosition: 5
+menuPosition: 6
 ---
 {% if site.docsUrl != "" %}
 Here you can access all the requirements for the final project.
