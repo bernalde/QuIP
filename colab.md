@@ -1,7 +1,7 @@
 ---
-title: "Python Notebooks"
+title: "Python Notebooks on Colab"
 layout: page
-menuItem: "Colab Links"
+menuItem: "Colab Notebooks"
 menuPosition: 3
 ---
 {% if site.docsUrl != "" %}
