@@ -29,7 +29,7 @@ This course is not going to focus on the following topics:
 - Analysis of speedup using differential geometry, algebraic topology, etc.
 
 Students with backgrounds in operations research, industrial engineering, chemical engineering, electrical engineering, physics, computer science, or applied mathematics are strongly encouraged to consider taking this course.
-[Enroll here](https://s3.andrew.cmu.edu/sio)
+[Enroll here.](https://s3.andrew.cmu.edu/sio)
 
 ## Prerequisite classes and capabilities
 
