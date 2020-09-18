@@ -13,12 +13,12 @@ Everything a student needs to know to not to fail. *Too too.*
 		<tr>
 			<td class="icon" style="color: red">💻</td>
 			<td><b>Quizzes</b><br>50 %</td>
-			<td>Weekly after evey lecture, worst two won't be counted.</td>
+			<td>Weekly, worst two won't be counted.</td>
 		</tr>
 		<tr>
 			<td class="icon" style="color: orange">🤝</td>
 			<td><b>Final project</b><br>50 %</td>
-			<td>Presented and submitted in groups on weeks 6-7.</td>
+			<td>Presented and submitted in groups in week 7.</td>
 		</tr>
 	</tbody>
 </table>
