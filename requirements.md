@@ -4,7 +4,6 @@ layout: page
 menuItem: Course requirements
 menuPosition: 5
 ---
-Everything a student needs to know to not to fail. *Too too.*
 
 ## Grade distribution
 
