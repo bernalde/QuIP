@@ -29,3 +29,9 @@ Here you can access all the lecture slides and videos.
 <a href="slides/47-779 Lecture 3 - Graver basis.pdf" download>Slides</a>,
 [Video](https://cmu.zoom.us/rec/share/4QTXDhnVQag7dN0IfrOnbH16yhr6G0_5rBV3Nj3WbO1m3t4VLwqZzutHjXKlg3Bw.x4SMdIgGN8iyt9JD) 
 (Passcode : <kbd><strong>49&WKKAR</strong></kbd>)
+
+- Lecture 4: Ising Model.<br> 
+<a href="slides/47-779 Lecture 4 - Ising Model.pdf" download>Slides</a>,
+[Video](https://cmu.zoom.us/rec/share/AOmRlMOFoAuTtyuyEDRQRMu1LuhHZJiY9AjUc3CZ-XMyP3nc3ZxJmop90Hn7wdI.R-a68jRiL_Ov3UPE)
+(Passcode : <kbd><strong>jKYs*s8@</strong></kbd>)
+

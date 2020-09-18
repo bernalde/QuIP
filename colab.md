@@ -16,3 +16,7 @@ Here you can access all the colab links.
 
 - Graver Basis (From Lecture 3).<br> 
 [Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%203%20-%20Graver%20basis.ipynb)
+
+- Ising Model (From Lecture 4).<br> 
+[Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%204%20-%20Ising%20Model.ipynb)
+
