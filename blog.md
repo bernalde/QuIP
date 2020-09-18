@@ -23,8 +23,8 @@ Selected blog posts from MyAmpleLife.
 - Week 5: Quantum Methods.<br> 
 [Language of the Gods in the World of Men](http://www.myamplelife.com/wp/2019/06/the-language-of-the-gods-in-the-world-of-men/)
 
-- Week 6: Course Overview.<br> 
-[Neo-Quantum Organon, Book One: Quantum Integer Programming](http://www.myamplelife.com/wp/2019/12/neo-quantum-organon-book-one-quantum-integer-programming-quip/)
+- Week 6: Unconventional Hardware.<br> 
+[Pocket Quantum Computers](http://www.myamplelife.com/wp/2020/09/pocket-quantum-computers/)
 
 - Week 7: Course Overview.<br> 
 [Neo-Quantum Organon, Book One: Quantum Integer Programming](http://www.myamplelife.com/wp/2019/12/neo-quantum-organon-book-one-quantum-integer-programming-quip/)
