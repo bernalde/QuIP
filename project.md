@@ -9,7 +9,7 @@ Here you can access all the requirements for the final project.
 {% endif %}
 
 The final group project accounts for 50% of the total grade.
-This project will be completed and should reflect the understanding of the students of the material covered in the lectures.
+This project should reflect the understanding of the material covered in the course.
 
 The components of this project are the following
 - Identify a problem that can be posed as an Integer Program. Discuss the importance of this problem.
