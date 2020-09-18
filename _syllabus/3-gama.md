@@ -18,5 +18,5 @@ to non-linear integer programs. arXiv preprint arXiv:1902.04215, 2019.
 methods for de novo discovery of altered cancer pathways. bioRxiv, page 845719, 2019.
 
 #### Quadratic (Semi-)Assignment Problem
-- Hedayat Alghassi, Raouf Dridi, and Sridhar Tayur. Gama: A novel algorithm for non-convex integer
+- Hedayat Alghassi, Raouf Dridi, and Sridhar Tayur. GAMA: A novel algorithm for non-convex integer
 programs. arXiv preprint arXiv:1907.10930, 2019.
