@@ -65,14 +65,17 @@ Weekly homework and quizzes (50%), Final Project (50%).
 The specific skills that students will gain that will make them "quantum ready" for industry or further academic research in this course are:
 
 A. Classical
+
 1. Given a practical problem (from supply chain or physics or anything else), formulate it as a non-linear integer program. We will provide a few practical problems, but we encourage you to suggest one that you are already working on or are interested in.
 2. Solve such formulations via classical solvers.
 
 B. Quantum
+
 3. Reformulate the problem to be “quantum ready” by making it in the form of a QUBO. 
 4. Solve the QUBO “brute force” through D-Wave or IBM (via QAOA).
 
 C. Hybrid Quantum-Classical
+
 5. Reformulate the problem again in the form suitable for GAMA.
 6. Solve GAMA compatible formulation via D-Wave and/or via QAOA.
 
