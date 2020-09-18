@@ -79,11 +79,11 @@ C. Hybrid Quantum-Classical
 5. Reformulate the problem again in the form suitable for GAMA.
 6. Solve GAMA compatible formulation via D-Wave and/or via QAOA.
 
-Regarding USRA
+USRA Collaboration
 - Access to D-Wave systems might be available via written proposals to the University Space Research Association (USRA). See [RIACS website](https://riacs.usra.edu/quantum/rfp) for terms and conditions. The course will discuss proposal preparation.
 - Students of this course are encouraged to apply to the [Feynman Academy Internship program](https://riacs.usra.edu/quantum/qacademy) that sponsors research projects at NASA Ames Research Center.
 
-Regarding AWS-Braket
+Amazon (AWS-Braket) Collaboration
 - Access to D-Wave, ionQ and Rigetti is also made possible through AWS Braket.  
 
 
