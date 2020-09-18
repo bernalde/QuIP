@@ -20,7 +20,7 @@ Michele  Conforti,  Gérard  Cornuéjols,  Giacomo  Zambelli,  et  al. Integer  
 
 #### Groebner basis
 - Dimitris  Bertsimas,  Georgia  Perakis,  and  Sridhar  Tayur.   A  new  algebraic  geometry  algorithm  for integer programming. Management Science, 46(7):999–1008, 2000. 
--  Serkan Ho sten and Bernd Sturmfels. Grin:  An implementation of Grobner bases for integer programming. In International  Conference  on  Integer  Programming  and  Combinatorial  Optimization,  pages 267–276. Springer, 1995. 
+-  Serkan Hosten and Bernd Sturmfels. Grin:  An implementation of Grobner bases for integer programming. In International  Conference  on  Integer  Programming  and  Combinatorial  Optimization,  pages 267–276. Springer, 1995. 
 
 #### Graver Basis
 - Raymond Hemmecke, Shmuel Onn, and Robert Weismantel.  A polynomial oracle-time algorithm for convex integer minimization. Mathematical Programming, 126(1):97–117, 2011. 
