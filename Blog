@@ -2,7 +2,7 @@
 title: "Blog"
 layout: page
 menuItem: "Blog"
-menuPosition: 6
+menuPosition: 7
 ---
 {% if site.docsUrl != "" %}
 Selected blog posts from MyAmpleLife.
