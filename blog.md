@@ -26,5 +26,5 @@ Selected blog posts from MyAmpleLife.
 - Week 6: Unconventional Hardware.<br> 
 [Pocket Quantum Computers](http://www.myamplelife.com/wp/2020/09/pocket-quantum-computers/)
 
-- Week 7: Course Overview.<br> 
-[Neo-Quantum Organon, Book One: Quantum Integer Programming](http://www.myamplelife.com/wp/2019/12/neo-quantum-organon-book-one-quantum-integer-programming-quip/)
+- Week 7: Applications.<br> 
+[Mathematics of Cancer Genomics: A Ridiculously Short Introduction](http://www.myamplelife.com/wp/2019/07/mathematics-for-cancer-genomics-a-ridiculously-short-introduction/)
