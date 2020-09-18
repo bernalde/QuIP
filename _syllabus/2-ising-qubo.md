@@ -2,7 +2,7 @@
 week: 2
 day: Week of September 14th
 title: Ising, Quadratic Unconstrained Binary Optimization
-tags: [ising,qubo]
+
 ---
 ### Ising model basics
 - Stephen G Brush. History of the Lenz-Ising model. Reviews of Modern Physics, 39(4):883, 1967.
