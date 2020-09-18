@@ -27,11 +27,11 @@ Everything a student needs to know to not to fail. *Too too.*
 
 ## Grading
 Weekly homework and quizzes (50\%), Final Project (50\%).
-- Each lecture will have a short quiz to evaluate the concepts covered in class. The  two worst quizzes won't be counted towards the final grade.
-- The final project will be submitted in groups and it will require the implementation and solution of an integer programming instance using quantum computing resources. This final project deliverable will be a report and a presentation.
+- Each week (after the first) will have a short quiz to evaluate the concepts covered in class. The two worst outcomes won't be counted towards the final grade.
+- The final project will be submitted in groups and will require the implementation and solution of an integer programming instance using quantum computing resources. This final project deliverable is a report and a presentation.
 
 ## Course policy
-- Auditing students are encouraged to participate actively in the lecture.
+- Auditing students are encouraged to participate actively in the lectures.
 - Regular attendance is essential and expected.
 - Please sign up using Canvas.
 
