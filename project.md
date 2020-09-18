@@ -18,4 +18,4 @@ The components of this project are the following:
 - Solve the resulting QUBO using non-conventional methods, e.g. Quantum Annealing, QAOA, simulated annealing in GPUs/TPUs, etc. Compare at least two different methods.
 - Implement the Graver Augmented Multiseed Algorithm (GAMA) to solve your problem. Evaluate the validity of your formulation for this algorithm and apply other decomposition algorithms if possible.
 - Write a report outlining the different approaches used and highlighting the knowledge obtained while developing the project.
-- Make a final presentation in front of the class reporting the findings of the project.
+- Make a final presentation to the class reporting the findings of the project.
