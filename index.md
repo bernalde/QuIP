@@ -49,11 +49,11 @@ No particular knowledge in quantum mechanics or algebraic geometry is required.
 
 **Week 4:** Quadratic Unconstrained Binary Optimization (QUBO), Graver Augmented Multiseed algorithm (GAMA).
 
-**Week 5:** Quantum methods for solving Ising/QUBO: AQC, QAOA
+**Week 5:** Quantum methods for solving Ising/QUBO: Adiabatic Quantum Computing (AQC), Quantum Approximate Optimization Algorithm (QAOA).
 
 **Week 6:** Specialized hardware for solving Ising/QUBO.
 
-**Week 7:** Applications and final project presentations.
+**Week 7:** Applications, Compiling and Final Project presentations.
 
 
 ## Grading
@@ -88,4 +88,4 @@ Regarding AWS-Braket
 
 
 # Full Syllabus
-The complete syllabus can be downloaded <a href="syllabus_tex/QuIP_Syllabus.pdf" download>here</a>
+The complete syllabus can be downloaded <a href="syllabus_tex/QuIP_Syllabus.pdf" download>here.</a>
