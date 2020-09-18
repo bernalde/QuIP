@@ -83,8 +83,8 @@ USRA Collaboration
 - Access to D-Wave systems might be available via written proposals to the University Space Research Association (USRA). See [RIACS website](https://riacs.usra.edu/quantum/rfp) for terms and conditions. The course will discuss proposal preparation.
 - Students of this course are encouraged to apply to the [Feynman Academy Internship program](https://riacs.usra.edu/quantum/qacademy) that sponsors research projects at NASA Ames Research Center.
 
-Amazon (AWS-Braket) Collaboration
-- Access to D-Wave, ionQ and Rigetti is also made possible through AWS Braket.  
+Amazon Braket Collaboration
+- Access to D-Wave, ionQ and Rigetti is also made possible through Amazon Braket.  
 
 
 # Full Syllabus
