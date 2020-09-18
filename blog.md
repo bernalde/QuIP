@@ -30,4 +30,5 @@ Selected blog posts from MyAmpleLife.
 [Pocket Quantum Computers](http://www.myamplelife.com/wp/2020/09/pocket-quantum-computers/)
 
 - Week 7: Applications.<br> 
-[Mathematics of Cancer Genomics: A Ridiculously Short Introduction](http://www.myamplelife.com/wp/2019/07/mathematics-for-cancer-genomics-a-ridiculously-short-introduction/)
+[Mathematics of Cancer Genomics: A Ridiculously Short Introduction](http://www.myamplelife.com/wp/2019/07/mathematics-for-cancer-genomics-a-ridiculously-short-introduction/)<br>
+[The Topology of Mutated Driver Pathways](http://www.myamplelife.com/wp/2019/06/the-topology-of-mutated-driver-pathways/)
