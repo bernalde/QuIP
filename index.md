@@ -88,4 +88,4 @@ Amazon Braket Collaboration
 
 
 # Full Syllabus
-The complete syllabus can be downloaded <a href="syllabus_tex/QuIP_Syllabus.pdf" download>here.</a>
+The complete syllabus can be downloaded <a href="syllabus_tex/QuIP_Syllabus-4.pdf" download>here.</a>
