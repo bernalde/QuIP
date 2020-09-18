@@ -20,7 +20,8 @@ Selected blog posts from MyAmpleLife.
 [Integer Solutions and Ising Model](http://www.myamplelife.com/wp/2020/01/integer-solutions-and-ising-model/)
 
 - Week 4: Graver Augmented Multiseed Algorithm.<br> 
-[Hybrid Quantum Classical Algorithms](http://www.myamplelife.com/wp/2019/02/hybrid-quantum-classical-algorithms/)
+[Hybrid Quantum Classical Algorithms](http://www.myamplelife.com/wp/2019/02/hybrid-quantum-classical-algorithms/)<br>
+[GAMA: A Quantum-inspired Classical Algorithm](http://www.myamplelife.com/wp/2019/06/gama-a-quantum-inspired-classical-algorithm/)
 
 - Week 5: Quantum Methods.<br> 
 [Language of the Gods in the World of Men](http://www.myamplelife.com/wp/2019/06/the-language-of-the-gods-in-the-world-of-men/)
