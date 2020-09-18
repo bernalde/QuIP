@@ -43,17 +43,17 @@ No particular knowledge in quantum mechanics or algebraic geometry is required.
 
 ## Basic course structure
 
-**Week 1:** Integer programming classical methods.
+**Weeks 1-2:** Integer programming: classical methods Grobner Basis.
 
-**Week 2:** Ising model, Quadratic Unconstrained Binary Optimization.
+**Week 3:** Graver Basis, Ising model. 
 
-**Week 3:** Graver Augmented Multiseed algorithm (GAMA).
+**Week 4:** Quadratic Unconstrained Binary Optimization, Graver Augmented Multiseed algorithm (GAMA).
 
-**Week 4:** Quantum methods for solving Ising/QUBO.
+**Week 5:** Quantum methods for solving Ising/QUBO: AQC, QAOA
 
-**Week 5:** Specialized hardware methods for solving Ising/QUBO.
+**Week 6:** Specialized hardware for solving Ising/QUBO.
 
-**Week 6:** Applications and final project presentations.
+**Week 7:** Applications and final project presentations.
 
 
 ## Grading
@@ -79,6 +79,9 @@ C. Hybrid Quantum-Classical
 Regarding USRA
 - Access to D-Wave systems might be available via written proposals to the University Space Research Association (USRA). See [RIACS website](https://riacs.usra.edu/quantum/rfp) for terms and conditions. The course will discuss proposal preparation.
 - Students of this course are encouraged to apply to the [Feynman Academy Internship program](https://riacs.usra.edu/quantum/qacademy) that sponsors research projects at NASA Ames Research Center.
+
+Regarding AWS-Braket
+- Access to D-Wave, ionQ and Rigetti is also made possible through AWS Braket.  
 
 
 # Full Syllabus
