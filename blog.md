@@ -17,8 +17,8 @@ Selected blog posts from MyAmpleLife.
 - Week 3: Ising Model.<br> 
 [Integer Solutions and Ising Model](http://www.myamplelife.com/wp/2020/01/integer-solutions-and-ising-model/)
 
-- Week 4: Course Overview.<br> 
-[Neo-Quantum Organon, Book One: Quantum Integer Programming](http://www.myamplelife.com/wp/2019/12/neo-quantum-organon-book-one-quantum-integer-programming-quip/)
+- Week 4: Graver Augmented Multiseed Algorithm.<br> 
+[Hybrid Quantum Classical Algorithms](http://www.myamplelife.com/wp/2019/02/hybrid-quantum-classical-algorithms/)
 
 - Week 5: Course Overview.<br> 
 [Neo-Quantum Organon, Book One: Quantum Integer Programming](http://www.myamplelife.com/wp/2019/12/neo-quantum-organon-book-one-quantum-integer-programming-quip/)
