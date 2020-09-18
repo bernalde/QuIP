@@ -43,11 +43,11 @@ No particular knowledge in quantum mechanics or algebraic geometry is required.
 
 ## Basic course structure
 
-**Weeks 1-2:** Integer programming: classical methods, Grobner Basis.
+**Weeks 1-2:** Integer programming: classical methods, Grobner Basis. Test-sets.
 
 **Week 3:** Graver Basis, Ising model. 
 
-**Week 4:** Quadratic Unconstrained Binary Optimization, Graver Augmented Multiseed algorithm (GAMA).
+**Week 4:** Quadratic Unconstrained Binary Optimization (QUBO), Graver Augmented Multiseed algorithm (GAMA).
 
 **Week 5:** Quantum methods for solving Ising/QUBO: AQC, QAOA
 
