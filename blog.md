@@ -20,8 +20,8 @@ Selected blog posts from MyAmpleLife.
 - Week 4: Graver Augmented Multiseed Algorithm.<br> 
 [Hybrid Quantum Classical Algorithms](http://www.myamplelife.com/wp/2019/02/hybrid-quantum-classical-algorithms/)
 
-- Week 5: Course Overview.<br> 
-[Neo-Quantum Organon, Book One: Quantum Integer Programming](http://www.myamplelife.com/wp/2019/12/neo-quantum-organon-book-one-quantum-integer-programming-quip/)
+- Week 5: Quantum Methods.<br> 
+[Language of the Gods in the World of Men](http://www.myamplelife.com/wp/2019/06/the-language-of-the-gods-in-the-world-of-men/)
 
 - Week 6: Course Overview.<br> 
 [Neo-Quantum Organon, Book One: Quantum Integer Programming](http://www.myamplelife.com/wp/2019/12/neo-quantum-organon-book-one-quantum-integer-programming-quip/)
