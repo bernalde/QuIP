@@ -11,7 +11,7 @@ Here you can access all the requirements for the final project.
 The final group project accounts for 50% of the total grade.
 This project should reflect the understanding of the material covered in the course.
 
-The components of this project are the following
+The components of this project are the following:
 - Identify a problem that can be posed as an Integer Program. Discuss the importance of this problem.
 - Solve instances of the identified problem using classical tools. Identify which are the sources of complexity while solving this problem.
 - Model the problem as a Quadratic Unconstrained Binary Optimization (QUBO). Verify that the reformulation of the problem is valid, in the sense that it represents the original problem.
