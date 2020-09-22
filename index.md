@@ -84,7 +84,7 @@ USRA Collaboration
 - Students of this course are encouraged to apply to the [Feynman Academy Internship program](https://riacs.usra.edu/quantum/qacademy) that sponsors research projects at NASA Ames Research Center.
 
 Amazon Braket Collaboration
-- Access to [D-Wave](https://aws.amazon.com/braket/hardware-providers/dwave/), [ionQ](https://aws.amazon.com/braket/hardware-providers/ionq/) and [Rigetti](https://aws.amazon.com/braket/hardware-providers/rigetti/ ) is also made possible through [Amazon Braket](https://aws.amazon.com/braket/).  
+- Access to [D-Wave](https://aws.amazon.com/braket/hardware-providers/dwave/), [IonQ](https://aws.amazon.com/braket/hardware-providers/ionq/) and [Rigetti](https://aws.amazon.com/braket/hardware-providers/rigetti/ ) is also made possible through [Amazon Braket](https://aws.amazon.com/braket/).  
 
 
 # Full Syllabus
