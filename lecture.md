@@ -38,5 +38,4 @@ Here you can access all the lecture slides and videos.
 - Lecture 5: Quadratic Unconstrained Binary Optimization (QUBO).<br> 
 <a href="slides/47-779 Lecture 5 - Quadratic Unconstrained Binary Optimization (QUBO).pdf" download>Slides</a>,
 [Video](https://youtu.be/v3D5jxi_2wM)
-(Passcode : <kbd><strong> </strong></kbd>)
 
