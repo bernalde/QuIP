@@ -20,6 +20,6 @@ Here you can access all the colab links.
 - Ising Model (From Lecture 4).<br> 
 [Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%204%20-%20Ising%20Model.ipynb)
 
-- Quadratic Unconstrained Binary Optimization "[QUBO]" (From Lecture 5).<br> 
+- Quadratic Unconstrained Binary Optimization [QUBO] (From Lecture 5).<br> 
 [Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%205%20-%20QUBO.ipynb)
 
