@@ -35,3 +35,8 @@ Here you can access all the lecture slides and videos.
 [Video](https://cmu.zoom.us/rec/share/AOmRlMOFoAuTtyuyEDRQRMu1LuhHZJiY9AjUc3CZ-XMyP3nc3ZxJmop90Hn7wdI.R-a68jRiL_Ov3UPE)
 (Passcode : <kbd><strong>jKYs*s8@</strong></kbd>)
 
+- Lecture 5: Quadratic Unconstrained Binary Optimization (QUBO).<br> 
+<a href="slides/47-779 Lecture 5 - Quadratic Unconstrained Binary Optimization (QUBO).pdf" download>Slides</a>,
+[Video]()
+(Passcode : <kbd><strong> </strong></kbd>)
+
