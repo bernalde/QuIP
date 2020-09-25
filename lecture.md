@@ -40,6 +40,7 @@ Here you can access all the lecture slides and videos.
 [Video](https://youtu.be/v3D5jxi_2wM)
 
 - Lecture 6: Graver Augmented Multiseed Algorithm (GAMA).<br> 
+<a href="47-779 Lecture 6 - Graver Augmented Multiseed Algorithm (GAMA).pdf" download>Slides</a>, 
 [Video](https://cmu.zoom.us/rec/share/_oLw25EljDXFHdjcg3LQdHD09pdyNDQua8kKv9vEUnlxKbRk1XmsFXdGegiajaky.cfnaZLsRitlNKoNL)
 (Passcode : <kbd><strong>3&UUXKgf</strong></kbd>)
 
