@@ -23,3 +23,5 @@ Here you can access all the colab links.
 - Quadratic Unconstrained Binary Optimization [QUBO] (From Lecture 5).<br> 
 [Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%205%20-%20QUBO.ipynb)
 
+- Graver Augmented Multiseed Algorithm [GAMA] (From Lecture 6).<br> 
+[Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%206%20-%20GAMA.ipynb)
