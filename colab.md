@@ -25,3 +25,7 @@ Here you can access all the colab links.
 
 - Graver Augmented Multiseed Algorithm [GAMA] (From Lecture 6).<br> 
 [Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%206%20-%20GAMA.ipynb)
+
+- Quantum Annealing via D-Wave (From Lecture 7).<br> 
+[Notebook](https://colab.research.google.com/github/bernalde/QuIP/blob/master/notebooks/Notebook%207%20-%20DWave.ipynb)
+

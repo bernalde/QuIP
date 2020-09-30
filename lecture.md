@@ -44,3 +44,8 @@ Here you can access all the lecture slides and videos.
 [Video](https://cmu.zoom.us/rec/share/_oLw25EljDXFHdjcg3LQdHD09pdyNDQua8kKv9vEUnlxKbRk1XmsFXdGegiajaky.cfnaZLsRitlNKoNL)
 (Passcode : <kbd><strong>3&UUXKgf</strong></kbd>)
 
+- Lecture 7: Quantum Annealing.<br> 
+<a href="47-779 Lecture 7 - Quantum Annealing.pdf" download>Slides</a>, 
+[Video](https://cmu.zoom.us/rec/share/9VBXMrjJZMt9U15BaJb49vXOGO2sV4HaHouNY-QsQmQWPoCLEmJ3BYjwbYR_ovmI.le7a5DFaS1nauKbq)
+(Passcode : <kbd><strong>2O8wq@Y%</strong></kbd>)
+
