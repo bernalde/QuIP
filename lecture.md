@@ -40,17 +40,16 @@ Here you can access all the lecture slides and videos.
 [Video](https://youtu.be/v3D5jxi_2wM)
 
 - Lecture 6: Graver Augmented Multiseed Algorithm (GAMA).<br> 
-<a href="47-779 Lecture 6 - Graver Augmented Multiseed Algorithm (GAMA).pdf" download>Slides</a>, 
+<a href="slides/47-779 Lecture 6 - Graver Augmented Multiseed Algorithm (GAMA).pdf" download>Slides</a>, 
 [Video](https://cmu.zoom.us/rec/share/_oLw25EljDXFHdjcg3LQdHD09pdyNDQua8kKv9vEUnlxKbRk1XmsFXdGegiajaky.cfnaZLsRitlNKoNL)
 (Passcode : <kbd><strong>3&UUXKgf</strong></kbd>)
 
 - Lecture 7: Quantum Annealing.<br> 
-<a href="47-779 Lecture 7 - Quantum Annealing.pdf" download>Slides</a>, 
+<a href="slides/47-779 Lecture 7 - Quantum Annealing.pdf" download>Slides</a>, 
 [Video](https://cmu.zoom.us/rec/share/9VBXMrjJZMt9U15BaJb49vXOGO2sV4HaHouNY-QsQmQWPoCLEmJ3BYjwbYR_ovmI.le7a5DFaS1nauKbq)
 (Passcode : <kbd><strong>2O8wq@Y%</strong></kbd>)
 
 - Lecture 8: Quantum Annealing (ctd)/ Quantum Approximate Optimization Ansatz (QAOA).<br> 
-<a href="47-779 Lecture 8 - Quantum Approximate Optimization Ansatz.pdf" download>Slides</a>, 
+<a href="slides/47-779 Lecture 8 - Quantum Approximate Optimization Ansatz.pdf" download>Slides</a>, 
 [Video](https://cmu.zoom.us/rec/share/B_AuEPTrdHhUerizLv_4QJ_2EcYlSr9oxqSbWso8ees7OOE8bWNnl3W5eeTVRoDS.Q7wNBj9JbEqRdapc)
 (Passcode : <kbd><strong>ghE58r=E</strong></kbd>)
-
