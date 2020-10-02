@@ -49,3 +49,8 @@ Here you can access all the lecture slides and videos.
 [Video](https://cmu.zoom.us/rec/share/9VBXMrjJZMt9U15BaJb49vXOGO2sV4HaHouNY-QsQmQWPoCLEmJ3BYjwbYR_ovmI.le7a5DFaS1nauKbq)
 (Passcode : <kbd><strong>2O8wq@Y%</strong></kbd>)
 
+- Lecture 8: Quantum Annealing (ctd)/ Quantum Approximate Optimization Ansatz (QAOA).<br> 
+<a href="47-779 Lecture 8 - Quantum Approximate Optimization Ansatz.pdf" download>Slides</a>, 
+[Video](https://cmu.zoom.us/rec/share/B_AuEPTrdHhUerizLv_4QJ_2EcYlSr9oxqSbWso8ees7OOE8bWNnl3W5eeTVRoDS.Q7wNBj9JbEqRdapc)
+(Passcode : <kbd><strong>ghE58r=E</strong></kbd>)
+
