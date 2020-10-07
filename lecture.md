@@ -54,8 +54,3 @@ Here you can access all the lecture slides and videos.
 [Video](https://cmu.zoom.us/rec/share/B_AuEPTrdHhUerizLv_4QJ_2EcYlSr9oxqSbWso8ees7OOE8bWNnl3W5eeTVRoDS.Q7wNBj9JbEqRdapc)
 (Passcode : <kbd><strong>ghE58r=E</strong></kbd>)
 
-- Lecture 9: Coherent Ising Machines (Guest Lecturer: Dr. Peter McMahon, Cornell).<br> 
-<a href="slides/47-779 Lecture 9- Coherent Ising Machine (McMahon).pdf" download>Slides</a>,
-[Video](https://cmu.zoom.us/rec/share/0jN3Mp_ZdtvjPsGpeBABjHo59ulAcXOsXQ5VNcakdBBWiriYfJsAc2CkbT8Iryil.vbtAnDCLxE5xypcw)
-(Passcode : <kbd><strong>zN?@2vq4</strong></kbd>)
-
