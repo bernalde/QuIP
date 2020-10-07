@@ -27,6 +27,7 @@ Selected blog posts from MyAmpleLife.
 [Language of the Gods in the World of Men](http://www.myamplelife.com/wp/2019/06/the-language-of-the-gods-in-the-world-of-men/)
 
 - Week 6: Unconventional Hardware.<br> 
+[What would Picasso do?](http://www.myamplelife.com/wp/2020/06/what-would-picasso-do/)<br>
 [Pocket Quantum Computers](http://www.myamplelife.com/wp/2020/09/pocket-quantum-computers/)
 
 - Week 7: Applications.<br> 
