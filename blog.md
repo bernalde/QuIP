@@ -10,7 +10,9 @@ Selected blog posts from MyAmpleLife.
 
 - Week 1: Course Overview.<br> 
 [Neo-Quantum Organon, Book One: Quantum Integer Programming](http://www.myamplelife.com/wp/2019/12/neo-quantum-organon-book-one-quantum-integer-programming-quip/) <br>
-[A Brief History of Modern Computing](http://www.myamplelife.com/wp/2020/04/a-brief-history-of-modern-computing/)
+[A Brief History of Modern Computing](http://www.myamplelife.com/wp/2020/04/a-brief-history-of-modern-computing/)<br>
+[Quantum Computing v2.0](http://www.myamplelife.com/wp/2020/09/quantum-computing-v2-0/)
+
 
 
 - Week 2: Grobner Basis.<br> 
