@@ -60,6 +60,6 @@ Here you can access all the lecture slides and videos.
 (Passcode : <kbd><strong>zN?@2vq4</strong></kbd>)
 
 - Lecture 10: Ising Machines (Guest Lecturer: Dr. Anil Prabhakar, IIT-Madras).<br> 
-<a href="slides/47-779 Lecture 10 - 47-779 Lecture 10- Ising Machines (Prabhakar).pdf" download>Slides</a>, 
+<a href="slides/47-779 Lecture 10 - Ising Machines (Prabhakar).pdf" download>Slides</a>, 
 [Video](https://cmu.zoom.us/rec/share/nFbL4iJpXCn-wxu63p-rwnAUIZ-AK8CVrqgrAme5v8t1Ydeq6Sk3zv1W5a8NVsdr.gHExwvh-oz1PZJJD)
 (Passcode : <kbd><strong>6E&P!f?f</strong></kbd>)
