@@ -40,7 +40,26 @@ Here you can access all the lecture slides and videos.
 [Video](https://youtu.be/v3D5jxi_2wM)
 
 - Lecture 6: Graver Augmented Multiseed Algorithm (GAMA).<br> 
-<a href="47-779 Lecture 6 - Graver Augmented Multiseed Algorithm (GAMA).pdf" download>Slides</a>, 
+<a href="slides/47-779 Lecture 6 - Graver Augmented Multiseed Algorithm (GAMA).pdf" download>Slides</a>, 
 [Video](https://cmu.zoom.us/rec/share/_oLw25EljDXFHdjcg3LQdHD09pdyNDQua8kKv9vEUnlxKbRk1XmsFXdGegiajaky.cfnaZLsRitlNKoNL)
 (Passcode : <kbd><strong>3&UUXKgf</strong></kbd>)
 
+- Lecture 7: Quantum Annealing.<br> 
+<a href="slides/47-779 Lecture 7 - Quantum Annealing.pdf" download>Slides</a>, 
+[Video](https://cmu.zoom.us/rec/share/9VBXMrjJZMt9U15BaJb49vXOGO2sV4HaHouNY-QsQmQWPoCLEmJ3BYjwbYR_ovmI.le7a5DFaS1nauKbq)
+(Passcode : <kbd><strong>2O8wq@Y%</strong></kbd>)
+
+- Lecture 8: Quantum Annealing/Quantum Approximate Optimization Algorithm (QAOA).<br> 
+<a href="slides/47-779 Lecture 8 - Quantum Approximate Optimization Algorithm.pdf" download>Slides</a>, 
+[Video](https://cmu.zoom.us/rec/share/B_AuEPTrdHhUerizLv_4QJ_2EcYlSr9oxqSbWso8ees7OOE8bWNnl3W5eeTVRoDS.Q7wNBj9JbEqRdapc)
+(Passcode : <kbd><strong>ghE58r=E</strong></kbd>)
+
+- Lecture 9: Coherent Ising Machines (Guest Lecturer: Dr. Peter McMahon, Cornell).<br> 
+<a href="slides/47-779 Lecture 9 - Coherent Ising Machine (McMahon).pdf" download>Slides</a>, 
+[Video](https://cmu.zoom.us/rec/share/0jN3Mp_ZdtvjPsGpeBABjHo59ulAcXOsXQ5VNcakdBBWiriYfJsAc2CkbT8Iryil.vbtAnDCLxE5xypcw)
+(Passcode : <kbd><strong>zN?@2vq4</strong></kbd>)
+
+- Lecture 10: Ising Machines (Guest Lecturer: Dr. Anil Prabhakar, IIT-Madras).<br> 
+<a href="slides/47-779 Lecture 10 - Ising Machines (Prabhakar).pdf" download>Slides</a>, 
+[Video](https://cmu.zoom.us/rec/share/nFbL4iJpXCn-wxu63p-rwnAUIZ-AK8CVrqgrAme5v8t1Ydeq6Sk3zv1W5a8NVsdr.gHExwvh-oz1PZJJD)
+(Passcode : <kbd><strong>6E&P!f?f</strong></kbd>)
