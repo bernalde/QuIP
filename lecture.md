@@ -69,3 +69,8 @@ Here you can access all the lecture slides and videos.
 [Video](https://cmu.zoom.us/rec/share/B697RHzL0wXG-adyOzBSv-gNbhC9pYTclFFXSnj8V8xgy8CEDzES2mxVNxnjpxtz.pVWEuw0iXQt5ybvG)
 (Passcode : <kbd><strong>.sp84g8p</strong></kbd>)
 
+- Lecture 12: QuIP Essentials (Special Lecture, IIT-M).<br> 
+<a href="slides/47-779 Lecture 12 - QuIPEssentials.pdf" download>Slides</a>, 
+[Video](https://cmu.zoom.us/rec/share/R3_68iVlFtMYOCXoFoY3n-NKov1UTUCDf7vaWrQP6ly5Xas-PkUnSNnh_cucuIoT.phUTZSOuV6xEC9-V)
+(Passcode : <kbd><strong>G=%2v+d2</strong></kbd>)
+
