@@ -64,7 +64,7 @@ Here you can access all the lecture slides and videos.
 [Video](https://cmu.zoom.us/rec/share/nFbL4iJpXCn-wxu63p-rwnAUIZ-AK8CVrqgrAme5v8t1Ydeq6Sk3zv1W5a8NVsdr.gHExwvh-oz1PZJJD)
 (Passcode : <kbd><strong>6E&P!f?f</strong></kbd>)
 
-- Lecture 11: Novel Approaches to Solving Ising Models.<br> 
+- Lecture 11: Novel Ising Solvers.<br> 
 <a href="slides/47-779 Lecture 11 - Novel Approaches to Solving Ising Models.pdf" download>Slides</a>, 
 [Video](https://cmu.zoom.us/rec/share/B697RHzL0wXG-adyOzBSv-gNbhC9pYTclFFXSnj8V8xgy8CEDzES2mxVNxnjpxtz.pVWEuw0iXQt5ybvG)
 (Passcode : <kbd><strong>.sp84g8p</strong></kbd>)
