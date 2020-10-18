@@ -12,6 +12,11 @@ Tuesdays and Thursdays 5:20p.m. - 7:10p.m. EST. Lectures on Zoom.
 
 Prof. Sridhar Tayur (4216 Tepper Quad), Dr. Davide Venturelli (online), David Bernal (DH3116).
 
+## News
+
+Our collaboration with USRA and Amazon Web Services was recently featured in [this news release](https://www.cmu.edu/tepper/news/stories/2020/october/quantum-computing-course.html) from the Tepper School of Businees at Carnegie Mellon Univerity.
+The article also mentions the motivation of creating this course, so enjoy the read!
+
 
 ## Objectives
 
