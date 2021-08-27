@@ -1,4 +1,4 @@
-# Quantum Integer Programming Syllabus
+# Quantum Integer Programming Course Website. 47-779 CMU Fall 2020
 
 This course is primarily designed for graduate students (and advanced undergraduates) across CMU campuses interested in integer programming (with non-linear objective functions) and the potential of near-term quantum computing for solving combinatorial optimization problems.
 By the end of the semester, someone enrolled in this course should be able to:
