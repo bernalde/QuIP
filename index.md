@@ -92,5 +92,5 @@ Amazon Braket Collaboration
 - Access to [D-Wave](https://aws.amazon.com/braket/hardware-providers/dwave/), [IonQ](https://aws.amazon.com/braket/hardware-providers/ionq/) and [Rigetti](https://aws.amazon.com/braket/hardware-providers/rigetti/ ) is also made possible through [Amazon Braket](https://aws.amazon.com/braket/).  
 
 
-# Full Syllabus
-The complete syllabus can be downloaded <a href="syllabus_tex/QuIP_Syllabus-4.pdf" download>here.</a>
+# Full Syllabus and Lecture Notes
+The complete syllabus can be downloaded <a href="syllabus_tex/QuIP_Syllabus-4.pdf" download>here.</a> Thanks to the students at IIT-Madras, we have lecture notes for all the classes transcribed and freely available in [arXiv](https://arxiv.org/abs/2012.11382).
