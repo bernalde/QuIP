@@ -28,3 +28,5 @@ Besides each week's papers there are some casual references we will visit. There
 - Georges Irfah, The Universal History of Computing, John Wiley & Sons, 2001.
 - Eleanor G. Rieffel and Wolfgang H. Polak, Quantum Computing: A Gentle Introduction, MIT Press, 2011. [PDF](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)
 - Richard J. Lipton and Kenneth W. Regan, Quantum Algorithms via Linear Algebra. A Primer, MIT Press, 2014.
+
+Moreover, thanks to the students at IIT-Madras, we have lecture notes for all the classes transcribed and freely available in [arXiv](https://arxiv.org/abs/2012.11382).
