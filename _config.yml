@@ -1,13 +1,13 @@
 # configuration
 # fill in the course details
  
-courseName: QuIPML - Quantum Integer Programming and Quantum Machine Learning
+courseName: QuIP - Quantum Integer Programming
 
 # small title that is at the top of every page
-subtitle: 47-779 course syllabus - Fall 2021
+subtitle: 47-779 course syllabus - Fall 2020
 
 # baseurl is the same as the name of the repository
-baseurl: /QuIPML
+baseurl: /QuIP
 
 # url where the required reading is available to download
 docsUrl: "" 
@@ -16,7 +16,7 @@ docsUrl: ""
 gradingUrl: "" 
 
 # url where the Github repository is
-repoUrl: "https://github.com/bernalde/QuIPML"
+repoUrl: "https://github.com/bernalde/QuIP"
 
 
 # change only if you know what you are doing
